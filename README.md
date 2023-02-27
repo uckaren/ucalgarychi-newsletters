@@ -1,0 +1,2 @@
+# ucalgarychi-newsletters
+ internal newsletter
